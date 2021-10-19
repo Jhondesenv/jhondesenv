@@ -1,16 +1,21 @@
-### Hi there 👋
+## Oiie! Bem vindo (a) a meu perfil do Github :)
 
-<!--
-**Jhondesenv/jhondesenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> - 🌎 ** Brasil **
 
-Here are some ideas to get you started:
+> - 📚 ** Estudando JS **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> - 🌱 ** Iniciante:) **
+
+##
+
+### <div align = "center"> ** _ Meus Status _ ** </div>
+
+  <a href="https://github.com/Jhondesenv">
+
+  <div align = "center"> <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Jhondesenv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align = center " "/> </div>
+
+  <div align = "center"> <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jhondesenv&layout=compact&langs_count=7&theme=radical" align = "center" /> </div>
+
+</div>
+
+##
