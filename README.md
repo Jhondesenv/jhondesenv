@@ -8,7 +8,7 @@
 
 ##
 
-### <div align = "center"> ** _ Meus Status _ ** </div>
+### <div align = "center"> **_Meus Status_** </div>
 
   <a href="https://github.com/Jhondesenv">
 
